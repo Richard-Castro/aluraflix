@@ -1,3 +1,4 @@
+
 import styled from 'styled-components';
 
 export const VideoCardContainer = styled.a`
@@ -18,7 +19,6 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
-
   transition: opacity .3s;
   &:hover,
   &:focus {
